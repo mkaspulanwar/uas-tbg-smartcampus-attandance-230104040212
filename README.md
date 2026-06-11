@@ -20,6 +20,14 @@
 
 ---
 
+## Tim Praktikum
+
+| Peran | Nama | NIM | Profil GitHub |
+| :--- | :--- | :--- | :--- |
+| **Pengembang Proyek** | M. Kaspul Anwar | 230104040212 | [![](https://img.shields.io/badge/GitHub-mkaspulanwar-181717?style=flat&logo=github)](https://github.com/mkaspulanwar) |
+| **Dosen Pengampu** | Muhayat, M. IT | - | [![](https://img.shields.io/badge/GitHub-muhayat--lab-181717?style=flat&logo=github)](https://github.com/muhayat-lab) |
+
+---
 ## Ringkasan Project
 
 Project ini membangun pipeline analitik Big Data untuk memantau dan memprediksi kepadatan mahasiswa pada beberapa gedung kampus. Data yang digunakan merupakan data simulasi tapping kartu mahasiswa selama periode observasi pukul 06:00 sampai 18:00.
