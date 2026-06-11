@@ -274,20 +274,24 @@ Simpan bukti screenshot pada folder `screenshots/`.
 
 <table>
 <tr>
-<td align="center"><b>Dashboard Streamlit</b></td>
-<td align="center"><b>Output Parquet</b></td>
+<td align="center"><b>Script Python</b></td>
+<td align="center"><b>Script Dashboard</b></td>
+<td align="center"><b>Screenshots Parquet</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/dashboard.png"/></td>
-<td><img src="screenshots/parquet_output.png"/></td>
+<td><img src="screenshots/script_python.png"/></td>
+<td><img src="screenshots/script_dashboard.png"/></td>
+<td><img src="screenshots/parquet.png"/></td>
 </tr>
 <tr>
-<td align="center"><b>Spark Berhasil Dijalankan</b></td>
-<td align="center"><b>Prediksi AI</b></td>
+<td align="center"><b>Dashboard 1</b></td>
+<td align="center"><b>Dashboard 2</b></td>
+<td align="center"><b>Dashboard 3</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/spark_run.png"/></td>
-<td><img src="screenshots/prediction_chart.png"/></td>
+<td><img src="screenshots/dashboard-1.png"/></td>
+<td><img src="screenshots/dashboard-2.png"/></td>
+<td><img src="screenshots/dashboard-3.png"/></td>
 </tr>
 </table>
 
